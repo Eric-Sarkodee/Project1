@@ -1,3 +1,0 @@
-[6248:6320:0617/125355:INFO:wow_nt_service_impl.cc(174)] Current process doesn't have full admin rights.
-[6248:6320:0617/125355:INFO:wow_nt_service_impl.cc(235)] Process's session ID: 1
-[6248:6320:0617/125355:INFO:wow_proxy_process_delegate.cc(72)] Elevate process from proxy process."C:\Program Files (x86)\UCBrowser\Application\UCBrowser.exe" --type=wow-updater -cenumupdatemode:updatemode_aliimtimer, with session ID: 1, hide: 1
